@@ -2,8 +2,21 @@
 using namespace std;
 int main()
 {
-    int x;
-    cin>>x;
-    cout<<x;
+   int t;
+   cin>>t;
+   while(t--){
+    int n;
+    cin>>n;
+    int penScore[n];
+    for(int i=0; i<n; i++)
+    {
+        cin>>penScore[i];
+
+    }
+    int x =10;labs
+    int qofM;
+    cin>>qofM;
+
+   }
     return 0;
 }
