@@ -16,6 +16,8 @@ int main()
 
     int count=0;
     for(int i=0; i<n; i++){
+
+    //done
         if(array[i]>h) count++;
     }
     cout<<n+count<<endl;
